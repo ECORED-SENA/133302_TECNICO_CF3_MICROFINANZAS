@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="166.677" height="166.677" viewBox="0 0 166.677 166.677">
+  <g id="Group_23478" data-name="Group 23478" transform="translate(-1770.605 -198.622)">
+    <g id="Group_23472" data-name="Group 23472" transform="translate(1770.605 198.622)">
+      <g id="Group_23465" data-name="Group 23465" transform="translate(73.175)">
+        <rect id="Rectangle_5344" data-name="Rectangle 5344" width="20.326" height="121.959" fill="#ffb0aa"/>
+      </g>
+      <g id="Group_23466" data-name="Group 23466" transform="translate(97.567 33.877)">
+        <rect id="Rectangle_5345" data-name="Rectangle 5345" width="20.326" height="54.204" transform="translate(20.326 54.204) rotate(180)" fill="#ffe352"/>
+      </g>
+      <g id="Group_23467" data-name="Group 23467" transform="translate(121.959 10.163)">
+        <rect id="Rectangle_5346" data-name="Rectangle 5346" width="20.326" height="101.632" fill="#98ca69"/>
+      </g>
+      <g id="Group_23468" data-name="Group 23468" transform="translate(146.35 33.877)">
+        <rect id="Rectangle_5347" data-name="Rectangle 5347" width="20.326" height="54.204" fill="#ffb0aa"/>
+      </g>
+      <g id="Group_23469" data-name="Group 23469" transform="translate(48.784 33.877)">
+        <rect id="Rectangle_5348" data-name="Rectangle 5348" width="20.326" height="54.204" fill="#ffe352"/>
+      </g>
+      <g id="Group_23470" data-name="Group 23470" transform="translate(24.392 10.163)">
+        <rect id="Rectangle_5349" data-name="Rectangle 5349" width="20.326" height="101.632" transform="translate(20.326 101.632) rotate(180)" fill="#98ca69"/>
+      </g>
+      <g id="Group_23471" data-name="Group 23471" transform="translate(0 33.877)">
+        <rect id="Rectangle_5350" data-name="Rectangle 5350" width="20.326" height="54.204" transform="translate(20.326 54.204) rotate(180)" fill="#ffb0aa"/>
+      </g>
+    </g>
+    <g id="Group_23477" data-name="Group 23477" transform="translate(1815.052 243.069)">
+      <g id="Group_23473" data-name="Group 23473" transform="translate(78.604 78.604)">
+        <rect id="Rectangle_5351" data-name="Rectangle 5351" width="20.326" height="10.163" transform="translate(0 14.373) rotate(-45)" fill="#d3d3d3"/>
+      </g>
+      <g id="Group_23474" data-name="Group 23474" transform="translate(83.395 83.395)">
+        <path id="Path_51557" data-name="Path 51557" d="M2165.183,574.036V593.2h-19.164l-19.671-19.671,19.164-19.164Z" transform="translate(-2126.348 -554.365)" fill="#6e83b7"/>
+      </g>
+      <g id="Group_23475" data-name="Group 23475">
+        <circle id="Ellipse_1312" data-name="Ellipse 1312" cx="50.816" cy="50.816" r="50.816" fill="#6e83b7"/>
+      </g>
+      <g id="Group_23476" data-name="Group 23476" transform="translate(8.808 8.808)">
+        <circle id="Ellipse_1313" data-name="Ellipse 1313" cx="42.008" cy="42.008" r="42.008" fill="#80d6fb"/>
+      </g>
+    </g>
+  </g>
+</svg>

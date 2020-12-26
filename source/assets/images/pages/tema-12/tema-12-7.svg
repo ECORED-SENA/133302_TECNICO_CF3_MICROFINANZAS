@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="131.479" height="175.782" viewBox="0 0 131.479 175.782">
+  <g id="Group_23541" data-name="Group 23541" transform="translate(-1829.053 -2732.604)">
+    <g id="Group_23516" data-name="Group 23516" transform="translate(1829.053 2761.901)">
+      <path id="Rectangle_5369" data-name="Rectangle 5369" d="M0,0H131.479a0,0,0,0,1,0,0V127.631a18.854,18.854,0,0,1-18.854,18.854H18.854A18.854,18.854,0,0,1,0,127.631V0A0,0,0,0,1,0,0Z" fill="#edeff1"/>
+    </g>
+    <g id="Group_23517" data-name="Group 23517" transform="translate(1829.053 2732.604)">
+      <path id="Path_51568" data-name="Path 51568" d="M1953.386,2732.6H1836.2a7.146,7.146,0,0,0-7.146,7.146V2761.9h131.479V2739.75A7.146,7.146,0,0,0,1953.386,2732.6Z" transform="translate(-1829.053 -2732.604)" fill="#6e83b7"/>
+    </g>
+    <g id="Group_23518" data-name="Group 23518" transform="translate(1933.021 2741.893)">
+      <circle id="Ellipse_1315" data-name="Ellipse 1315" cx="5.359" cy="5.359" r="5.359" transform="translate(0 0)" fill="#ffb0aa"/>
+    </g>
+    <g id="Group_23519" data-name="Group 23519" transform="translate(1914.8 2741.893)">
+      <circle id="Ellipse_1316" data-name="Ellipse 1316" cx="5.359" cy="5.359" r="5.359" transform="translate(0 0)" fill="#ffe352"/>
+    </g>
+    <g id="Group_23520" data-name="Group 23520" transform="translate(1896.579 2741.893)">
+      <circle id="Ellipse_1317" data-name="Ellipse 1317" cx="5.359" cy="5.359" r="5.359" transform="translate(0 0)" fill="#98ca69"/>
+    </g>
+    <g id="Group_23526" data-name="Group 23526" transform="translate(1841.2 2765.116)">
+      <g id="Group_23521" data-name="Group 23521" transform="translate(7.146 60.023)">
+        <rect id="Rectangle_5370" data-name="Rectangle 5370" width="17.864" height="28.582" fill="#ffb0aa"/>
+      </g>
+      <g id="Group_23522" data-name="Group 23522" transform="translate(32.155 38.586)">
+        <rect id="Rectangle_5371" data-name="Rectangle 5371" width="17.864" height="50.019" fill="#ffe352"/>
+      </g>
+      <g id="Group_23523" data-name="Group 23523" transform="translate(57.165 52.877)">
+        <rect id="Rectangle_5372" data-name="Rectangle 5372" width="17.864" height="35.728" fill="#80d6fb"/>
+      </g>
+      <g id="Group_23524" data-name="Group 23524" transform="translate(82.174 24.295)">
+        <rect id="Rectangle_5373" data-name="Rectangle 5373" width="17.864" height="64.31" fill="#98ca69"/>
+      </g>
+      <g id="Group_23525" data-name="Group 23525" transform="translate(0 88.605)">
+        <rect id="Rectangle_5374" data-name="Rectangle 5374" width="7.146" height="107.184" transform="translate(107.184) rotate(90)" fill="#6e83b7"/>
+      </g>
+      <path id="Path_51569" data-name="Path 51569" d="M1969.774,2818.39a5.34,5.34,0,0,0-5.188,6.684l-18.784,19.858a5.388,5.388,0,0,0-1.038-.1,5.329,5.329,0,0,0-3.09.985l-16.643-6.895a5.353,5.353,0,0,0-10.567,1.727l-18.181,15.843a5.417,5.417,0,1,0,3.751,4.313l18.18-15.843a5.336,5.336,0,0,0,4.629-.758l16.643,6.895a5.355,5.355,0,1,0,10.464-2.232l18.784-19.858a5.359,5.359,0,1,0,1.038-10.616Z" transform="translate(-1878.667 -2818.39)" fill="#6e83b7"/>
+    </g>
+    <g id="Group_23533" data-name="Group 23533" transform="translate(1841.2 2866.584)">
+      <g id="Group_23527" data-name="Group 23527" transform="translate(14.291 0)">
+        <rect id="Rectangle_5375" data-name="Rectangle 5375" width="7.146" height="28.582" transform="translate(28.582) rotate(90)" fill="#6e83b7"/>
+      </g>
+      <g id="Group_23528" data-name="Group 23528" transform="translate(0 0)">
+        <rect id="Rectangle_5376" data-name="Rectangle 5376" width="7.146" height="7.146" transform="translate(7.146) rotate(90)" fill="#6e83b7"/>
+      </g>
+      <g id="Group_23529" data-name="Group 23529" transform="translate(14.291 14.291)">
+        <rect id="Rectangle_5377" data-name="Rectangle 5377" width="7.146" height="28.582" transform="translate(28.582) rotate(90)" fill="#6e83b7"/>
+      </g>
+      <g id="Group_23530" data-name="Group 23530" transform="translate(0 14.291)">
+        <rect id="Rectangle_5378" data-name="Rectangle 5378" width="7.146" height="7.146" transform="translate(7.146) rotate(90)" fill="#6e83b7"/>
+      </g>
+      <g id="Group_23531" data-name="Group 23531" transform="translate(14.291 28.582)">
+        <rect id="Rectangle_5379" data-name="Rectangle 5379" width="7.146" height="28.582" transform="translate(28.582 0) rotate(90)" fill="#6e83b7"/>
+      </g>
+      <g id="Group_23532" data-name="Group 23532" transform="translate(0 28.582)">
+        <rect id="Rectangle_5380" data-name="Rectangle 5380" width="7.146" height="7.146" transform="translate(7.146 0) rotate(90)" fill="#6e83b7"/>
+      </g>
+    </g>
+    <g id="Group_23540" data-name="Group 23540" transform="translate(1905.511 2866.584)">
+      <g id="Group_23534" data-name="Group 23534" transform="translate(14.291 0)">
+        <rect id="Rectangle_5381" data-name="Rectangle 5381" width="7.146" height="28.582" transform="translate(28.582) rotate(90)" fill="#6e83b7"/>
+      </g>
+      <g id="Group_23535" data-name="Group 23535" transform="translate(0 0)">
+        <rect id="Rectangle_5382" data-name="Rectangle 5382" width="7.146" height="7.146" transform="translate(7.146) rotate(90)" fill="#6e83b7"/>
+      </g>
+      <g id="Group_23536" data-name="Group 23536" transform="translate(14.291 14.291)">
+        <rect id="Rectangle_5383" data-name="Rectangle 5383" width="7.146" height="28.582" transform="translate(28.582 0) rotate(90)" fill="#6e83b7"/>
+      </g>
+      <g id="Group_23537" data-name="Group 23537" transform="translate(0 14.291)">
+        <rect id="Rectangle_5384" data-name="Rectangle 5384" width="7.146" height="7.146" transform="translate(7.146) rotate(90)" fill="#6e83b7"/>
+      </g>
+      <g id="Group_23538" data-name="Group 23538" transform="translate(14.291 28.582)">
+        <rect id="Rectangle_5385" data-name="Rectangle 5385" width="7.146" height="28.582" transform="translate(28.582 0) rotate(90)" fill="#6e83b7"/>
+      </g>
+      <g id="Group_23539" data-name="Group 23539" transform="translate(0 28.582)">
+        <rect id="Rectangle_5386" data-name="Rectangle 5386" width="7.146" height="7.146" transform="translate(7.146 0) rotate(90)" fill="#6e83b7"/>
+      </g>
+    </g>
+  </g>
+</svg>

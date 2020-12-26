@@ -1,0 +1,415 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "tema-1",
+    "title": "1. Mercado objetivo",
+    "breadcrumb": ["Inicio","tema 1"],
+    "path": "pages/tema-1.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-1",
+        "title": "1.1 Características",
+        "anchor": "tema-11"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-1",
+        "title": "1.2 Segmentación del mercado",
+        "anchor": "tema-12"
+      }
+    ]
+  },
+  { 
+    "id": 2,
+    "icon": "fa fa-play-circle",
+    "slug": "tema-2",
+    "title": "2. Sistema de administración de riesgo crediticio SARC",
+    "breadcrumb": ["Inicio","tema 2"],
+    "path": "pages/tema-2.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-2",
+        "title": "2.1 Fases",
+        "anchor": "tema-21"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-2",
+        "title": "2.2 Etapas",
+        "anchor": "tema-22"
+      }
+    ]
+  },
+  { 
+    "id": 3,
+    "icon": "fa fa-file-text-o",
+    "slug": "tema-3",
+    "title": "3. Estrategias de identificación de necesidades de los clientes",
+    "breadcrumb": ["Inicio","tema 3"],
+    "path": "pages/tema-3.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-3",
+        "title": "3.1. Clases",
+        "anchor": "tema-31"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-3",
+        "title": "3.2. Aplicación",
+        "anchor": "tema-32"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "icon": "fa fa-file-text-o",
+    "slug": "tema-4",
+    "title": "4. Factores de evaluación para los microcréditos.",
+    "breadcrumb": ["Inicio","tema 4"],
+    "path": "pages/tema-4.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-4",
+        "title": "4.1. Características",
+        "anchor": "tema-41"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-4",
+        "title": "4.2. Modo de identificarlos",
+        "anchor": "tema-42"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-4",
+        "title": "4.3. Clases",
+        "anchor": "tema-43"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "icon": "fa fa-file-text-o",
+    "slug": "tema-5",
+    "title": "5. Métodos de cálculo para crédito.",
+    "breadcrumb": ["Inicio","tema 5"],
+    "path": "pages/tema-5.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-5",
+        "title": "5.1. Cruces de información (ventas)",
+        "anchor": "tema-51"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-5",
+        "title": "5.2. Cruces de información (compras)",
+        "anchor": "tema-52"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-5",
+        "title": "5.3. Flujo de unidad familiar",
+        "anchor": "tema-53"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "icon": "fa fa-file-text-o",
+    "slug": "tema-6",
+    "title": "6. Contabilidad básica ",
+    "breadcrumb": ["Inicio","tema 6"],
+    "path": "pages/tema-6.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-6",
+        "title": "6.1. Tipos de registro",
+        "anchor": "tema-61"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-6",
+        "title": "6.2. Clasificación de estados financieros.",
+        "anchor": "tema-62"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-6",
+        "title": "6.3. Manejo de títulos valores",
+        "anchor": "tema-63"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-6",
+        "title": "6.4. Flujo de caja",
+        "anchor": "tema-64"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-6",
+        "title": "6.5. Capacidad de pago",
+        "anchor": "tema-65"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-6",
+        "title": "6.6. Capacidad de endeudamiento",
+        "anchor": "tema-66"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "icon": "fa fa-file-text-o",
+    "slug": "tema-7",
+    "title": "7. Cliente microfinanciero.",
+    "breadcrumb": ["Inicio","tema 7"],
+    "path": "pages/tema-7.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-7",
+        "title": "7.1. Tipos de clientes",
+        "anchor": "tema-71"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-7",
+        "title": "7.2. Manejo de los momentos de verdad",
+        "anchor": "tema-72"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-7",
+        "title": "7.3. Características",
+        "anchor": "tema-73"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "icon": "fa fa-file-text-o",
+    "slug": "tema-8",
+    "title": "8. Bases de datos",
+    "breadcrumb": ["Inicio","tema 8"],
+    "path": "pages/tema-8.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-8",
+        "title": "8.1. Tipos de bases de datos",
+        "anchor": "tema-81"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-8",
+        "title": "8.2. Almacenamiento",
+        "anchor": "tema-82"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-8",
+        "title": "8.3. Análisis",
+        "anchor": "tema-83"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-8",
+        "title": "8.4. Minería de datos y confidencialidad",
+        "anchor": "tema-84"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "icon": "fa fa-file-text-o",
+    "slug": "tema-9",
+    "title": "9. Técnicas de comprobación de la información de clientes",
+    "breadcrumb": ["Inicio","tema 9"],
+    "path": "pages/tema-9.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-9",
+        "title": "9.1. Referenciación comercial",
+        "anchor": "tema-91"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-9",
+        "title": "9.2. Referenciación familiar",
+        "anchor": "tema-92"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-9",
+        "title": "9.3. Referenciación zonal",
+        "anchor": "tema-93"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "icon": "fa fa-file-text-o",
+    "slug": "tema-10",
+    "title": "10. Análisis financiero",
+    "breadcrumb": ["Inicio","tema 10"],
+    "path": "pages/tema-10.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-10",
+        "title": "10.1. Tipos de análisis",
+        "anchor": "tema-101"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-10",
+        "title": "10.2. Sobreendeudamiento",
+        "anchor": "tema-102"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-10",
+        "title": "10.3. Capacidad de pago",
+        "anchor": "tema-103"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "icon": "fa fa-file-text-o",
+    "slug": "tema-11",
+    "title": "11. Indicadores de gestión",
+    "breadcrumb": ["Inicio","tema 11"],
+    "path": "pages/tema-11.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-11",
+        "title": "11.1. Tipos de indicadores (financieros, de servicios, de recaudo, de evolución)",
+        "anchor": "tema-111"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-11",
+        "title": "11.2. Parámetros",
+        "anchor": "tema-112"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-11",
+        "title": "11.3. Capital de trabajo",
+        "anchor": "tema-113"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-11",
+        "title": "11.4. Razón corriente",
+        "anchor": "tema-114"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-11",
+        "title": "11.5. Rotación de capital de trabajo",
+        "anchor": "tema-115"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-11",
+        "title": "11.6. Rentabilidad",
+        "anchor": "tema-116"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-11",
+        "title": "11.7. Margen Bruto",
+        "anchor": "tema-117"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-11",
+        "title": "11.8. Endeudamiento futuro",
+        "anchor": "tema-118"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-11",
+        "title": "11.9. Pago Vs Ingreso",
+        "anchor": "tema-119"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "icon": "fa fa-file-text-o",
+    "slug": "tema-12",
+    "title": "12. Modelos de informes microfinancieros",
+    "breadcrumb": ["Inicio","tema 12"],
+    "path": "pages/tema-12.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-12",
+        "title": "12.1. Tipos de informes",
+        "anchor": "tema-121"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-12",
+        "title": "12.2. Elementos del informe",
+        "anchor": "tema-122"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-12",
+        "title": "12.3. Comité de crédito (aprobación o negación)",
+        "anchor": "tema-123"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "icon": "fa fa-file-text-o",
+    "slug": "tema-13",
+    "title": "13. Desembolso",
+    "breadcrumb": ["Inicio","tema 13"],
+    "path": "pages/tema-13.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-13",
+        "title": "13.1. Garantía personal",
+        "anchor": "tema-131"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-13",
+        "title": "13.2. Garantía hipotecaria",
+        "anchor": "tema-132"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-13",
+        "title": "13.3. Garantía prendaría o pignoración",
+        "anchor": "tema-133"
+      }
+    ]
+  }
+]
+

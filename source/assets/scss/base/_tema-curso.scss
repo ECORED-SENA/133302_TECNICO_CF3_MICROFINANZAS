@@ -1,0 +1,112 @@
+//Colores base del material de formación
+$brand-color-dark:#FFC558;
+$text-color-dark: #00223D;
+
+
+//Esto lo puede cambiar poe el color que quiera q sugiera el tema. (sE QUITA EL lighten)
+$brand-color-light: #E6EEF3;
+$text-color-light: $primary;
+$brand-color-secondary: #7CA7C9;
+
+.bg-azul-claro{
+    background-color: #B7CFDF;
+}
+.bg-azul-claro-tema-5{
+    background-color: #E6F1F2;
+}
+.bg-azul-claro-tema-6{
+    background-color: #EDF0FF;
+}
+.bg-naranja{
+    background-color: #FEC558;
+}
+.bg-gris-oscuro{
+    background-color: #E6E6F2;
+}
+.bg-gris-claro{
+    background-color: #F0F0F0;
+}
+.bg-verde-claro{
+    background-color: #E6F1F2;
+}
+.bg-naranja-oscuro{
+    background-color: #FCE6BD;
+}
+.bg-naranja-medio{
+    background-color: #FCEBC8;
+}
+.bg-naranja-claro{
+    background-color: #FFF4DE;
+}
+.bg-naranja-claro-tema-5{
+    background-color: #FDF3DA;
+}
+.bg-naranja-claro-tema-8{
+    background-color: #FFEFD0;
+}
+.bg-naranja-claro-tema-11{
+    background-color: #FFEAC3;
+}
+.bg-naranja-oscuro-tema-5{
+    background-color: #F7E7BF;
+}
+.cont-flecha {
+    &::before {
+        content: '';
+        border-style: solid;
+        border-width: 28px 20px 0px 20px;
+        border-color: #FEC558 transparent transparent transparent;
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: 9;
+        transform: translateY(46px);
+    }    
+}
+.bg-azul-claro2{
+    background-color: #BCE5FA;
+}
+.borde-azul{
+    border:1px #50A1C9 solid;
+}
+.borde-blanco{
+    border:1px;
+}
+.text-color-default{
+    color:#12263F;
+}
+
+.title-barra-horizontal {
+    &::after {
+        content: '';
+        position: absolute;
+        left: 52%;
+        transform: translateX(-50%);
+        z-index: 9;
+        transform: translateY(11px);
+        width: 45%;
+        height: 2px;
+        background-color: #FD8F25;
+    }    
+}
+
+.title-barra-horizontal-tema-11 {
+    &::after {
+        content: '';
+        position: absolute;
+        left: 81%;
+        transform: translateX(-50%);
+        z-index: 9;
+        transform: translateY(11px);
+        width: 17%;
+        height: 2px;
+        background-color: #FD8F25;
+    }    
+}
+
+.bg-curuva{
+    background-color: #FFC558;
+}
+.bg-rosado{
+    background-color: #FAE7B7;
+}
