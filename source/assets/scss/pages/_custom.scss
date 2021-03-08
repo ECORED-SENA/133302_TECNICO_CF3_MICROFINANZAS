@@ -1,0 +1,270 @@
+.img-a {
+  display: block;
+  margin: auto;
+}
+
+.bg-1 {
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(248, 250, 252, 1) 12%,
+    rgba(203, 217, 228, 1) 100%
+  );
+}
+
+.bg-2 {
+  background: rgb(255, 255, 255);
+  background: radial-gradient(
+    circle,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(203, 217, 228, 1) 100%
+  );
+}
+
+.bg-3 {
+  background: #fae7b736;
+}
+
+.bg-4 {
+  background: rgb(255, 255, 255);
+  background: radial-gradient(
+    circle,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(203, 217, 228, 1) 100%
+  );
+}
+
+.bg-5 {
+  background: rgb(220, 232, 241);
+  background: linear-gradient(
+    180deg,
+    rgba(220, 232, 241, 1) 0%,
+    rgba(255, 255, 255, 1) 100%
+  );
+}
+
+.bg-6 {
+  background: #fae7b72a;
+}
+
+.text-sup-2 {
+  margin-top: -60px;
+}
+
+.img-sup {
+  z-index: 4;
+}
+
+.b-jumbo {
+  border: 5px solid white !important;
+}
+
+.bg-7 {
+  background: rgb(255, 255, 255);
+  background: radial-gradient(
+    circle,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(250, 231, 183, 0.329) 100%
+  );
+}
+
+.bg-8 {
+  background: #fae7b7;
+}
+
+.r-border-sup {
+  border-radius: 0px 0px 10px 10px;
+}
+
+.list {
+  width: 100%;
+  display: flex !important;
+  &__item {
+    &__bulletNumber {
+      position: relative;
+      width: 30px;
+      height: 30px;
+      margin-right: 1rem;
+      text-align: center;
+      border-radius: 50%;
+      background-color: #fec558;
+      span {
+        color: #00223d;
+        font-weight: 700;
+        font-size: small;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+    }
+    &__number {
+      position: relative;
+      margin-right: 1rem;
+      span {
+        color: orange;
+        font-size: 15pt;
+        font-weight: 700;
+        line-height: 1.2;
+      }
+    }
+    &__icon {
+      position: relative;
+      width: 15px;
+      margin-right: 0.65rem;
+      img {
+        width: 15px;
+        vertical-align: middle;
+      }
+    }
+  }
+  &__txt {
+    p:first-child,
+    h3:first-child {
+      margin-top: 0px;
+    }
+  }
+}
+
+.m-top {
+  margin-top: -4px !important;
+}
+
+.punteado {
+  border-left-style: dotted;
+  border-width: 2px;
+  border-color: 660033;
+}
+
+.bg-white-1 {
+  background: #ffffffc5;
+}
+
+.arrow {
+  background: rgb(241, 167, 29);
+  background: linear-gradient(
+    100deg,
+    rgba(241, 167, 29, 1) 0%,
+    rgba(250, 177, 40, 1) 50%,
+    rgba(241, 167, 29, 1) 100%
+  );
+  position: relative;
+  padding: 2rem;
+
+  h1,
+  h2,
+  h3 {
+    margin: 0;
+    color: #00223d;
+    text-align: center;
+  }
+
+  &--xs {
+    padding: 0;
+    height: 8px;
+  }
+}
+
+.arrow::before {
+  content: "";
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  border-style: solid;
+  border-width: 25px 25px 0px 25px;
+  border-color: transparent transparent transparent transparent;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: -18px;
+  margin-top: 0px;
+  z-index: 20;
+}
+
+.text-sup {
+  margin-top: -30px;
+}
+
+.p-color {
+  background: #476d8a;
+  color: white;
+  border-radius: 10px 10px 0px 0px;
+  padding: 7px 35px 7px 35px;
+  font-weight: 500;
+}
+
+.r-border {
+  border-radius: 0px;
+}
+
+.bg-9 {
+  background: #fae7b72a;
+  border-top: 2px solid #e7d3ac !important;
+  border-bottom: 2px solid #e7d3ac !important;
+  border-left: #fae7b72a !important;
+  border-right: #fae7b72a !important;
+  border-radius: 0px;
+}
+
+.bg-10 {
+  background: #fae7b7;
+  border-radius: 0px;
+}
+
+.bg-11 {
+  background: #fff5db;
+  border-radius: 0px;
+}
+
+.b-white {
+  border: 1px solid white !important;
+}
+
+.hr-pregunta {
+  border: 2px solid #ffc558;
+}
+
+.jumbo-bg-2 {
+  background: rgb(246, 225, 186);
+  background: radial-gradient(
+    circle,
+    rgba(246, 225, 186, 1) 0%,
+    rgba(255, 197, 88, 0.37) 100%
+  );
+}
+
+.jumbo-border {
+  border-radius: 0px;
+}
+
+.color-1-border {
+  border: 4px solid #fec964;
+}
+
+.table-title {
+  background: #fec558;
+  color: #00223d;
+}
+
+.b {
+  border: 1px solid white;
+}
+
+.t-1{
+    background: #FDEFD3;
+}
+
+.t-2{
+    background: #FCE8C2; 
+}
+
+.t-3{
+    background: #FFDFA3;
+}
+
+.text-sup {
+    margin-top: -120px!important;
+  }
+.cat{
+    background: #FDF3DA;    
+}  

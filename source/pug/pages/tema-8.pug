@@ -4,232 +4,188 @@
                 
         h1 8.	Bases de datos
 
-    .card.pb-5
-
-        .card-body
+    .jumbotron.bg-white
             
-            img(src="assets/images/pages/tema-8/tema-8-1.svg").img-fluid.mt-5
+        img(src="assets/images/pages/tema-8/tema-8-1.png").img-fluid
 
-            p.mt-5 Agrupación de toda información que tienen un mismo entorno y pueden estar por categorías, esta se ordena de manera sistemática, para poder ser consultada en un momento dado, sirve como análisis, como insumo para la realización de algún proyecto, inclusive con fines comerciales, tiene diversas formas de usos.
+        p Agrupación de toda información que tienen un mismo entorno y pueden estar por categorías, esta se ordena de manera sistemática, para poder ser consultada en un momento dado, sirve como análisis, como insumo para la realización de algún proyecto, inclusive con fines comerciales, tiene diversas formas de usos.
 
-    .card.py-5
+        .sub-ecored.mt-5
 
-        .card-body
+            h2#tema-71 8.1.	Tipos de datos
 
-            .sub-ecored
-
-                h2#tema-71 8.1.	Tipos de datos
-
-            .bg-naranja.p-4.mt-6.cont-flecha.text-center
-
-                p.font-weight-bold Las bases de datos se dividen en unos tipos:
-
-            .row.mt-4.justify-content-center.mt-6
-
-                .col-md-3.col-lg-3.col-sm-3.col-xs-12
+        .header-arrow.mt-5
+            h3 Las bases de datos se dividen en unos tipos:
+        .jumbotron.bg-7
+            .row.justify-content-center.align-items-center
+                .col-auto
 
                     img(src="assets/images/pages/tema-8/tema-8-2.svg").img-fluid
 
-                .col-7.bg-naranja-claro-tema-8
+                .col
 
                     p.p-5 #[strong Jerárquica:] organiza los datos utilizando estructura en árbol, ofrece mayor rapidez en la consulta de datos, pero su desventaja es que se debe realizar un diseño muy robusto.
 
-            .row.mt-4.justify-content-center.mt-6
+            .row.justify-content-center.align-items-center.mt-5
 
-                .col-md-3.col-lg-3.col-sm-3.col-xs-12
+                .col-auto
 
                     img(src="assets/images/pages/tema-8/tema-8-3.svg").img-fluid
 
-                .col-7.bg-naranja-claro-tema-8
+                .col
 
                     p.p-5 #[strong En red:] utiliza una estructura de red, tiene acceso a la información de manera más sensible pero su acceso es mucho más lento.
 
-            .row.mt-4.justify-content-center.mt-6
+            .row.justify-content-center.align-items-center.mt-5
 
-                .col-md-3.col-lg-3.col-sm-3.col-xs-12
+                .col-auto
 
                     img(src="assets/images/pages/tema-8/tema-8-4.svg").img-fluid
 
-                .col-7.bg-naranja-claro-tema-8
+                .col
 
                     p.p-5 #[strong Relacional:] conjunto de tablas que se relacionan, pero presentan deficiencia con los datos gráficos.
 
-            .row.mt-4.justify-content-center.mt-6
+            .row.justify-content-center.align-items-center.mt-5
 
-                .col-md-3.col-lg-3.col-sm-3.col-xs-12
+                .col-auto
 
                     img(src="assets/images/pages/tema-8/tema-8-5.svg").img-fluid
 
-                .col-7.bg-naranja-claro-tema-8
+                .col
 
                     p.p-5 #[strong Orientada a objetos:] objeto se entiende por cualquier cosa del mundo real, ofrece un fácil manejo de todo tipo de dato complejo manejado de forma rápida y ágil.
 
-    .card.py-5
+        .sub-ecored.mt-5
 
-        .card-body
+            h2#tema-82 8.2.	Almacenamiento
 
-            .sub-ecored
+        p.mt-5 En general, las bases de datos son archivadas en las memorias secundarias (discos duros, discos ópticos o memorias flash, servidores, datos en la nube). 
 
-                h2#tema-82 8.2.	Almacenamiento
-
-            p.mt-5 En general, las bases de datos son archivadas en las memorias secundarias (discos duros, discos ópticos o memorias flash, servidores, datos en la nube). 
-
-            .bg-naranja.p-4.mt-5.cont-flecha.text-center
-
-                p.font-weight-bold Algunas formas de organización primaria son:
-
-            .row.mt-6
+        .header-arrow.mt-5
+            h3 Algunas formas de organización primaria son:
+        .jumbotron.bg-7
+            .row.justify-content-center.align-items-center.mt-5
 
                 .col-auto
 
-                    img(src="assets/images/pages/tema-5/vineta.svg").img-fluid
+                    img(src="assets/images/pages/tema-8/img1.svg").img-fluid
+
+                .col 
+                    .list
+                        .list__item
+                            .list__item__icon
+                                img.img-a(src="assets/images/pages/ilustraciones/v1.svg").img-fluid  
+                        .list__txt    
+                            p.m-top #[strong Archivos no ordenados:] esta forma ubicar los registros en el disco sin algún orden en particular, incluye nuevos registros al final del archivo.
+                    .list
+                        .list__item
+                            .list__item__icon
+                                img.img-a(src="assets/images/pages/ilustraciones/v1.svg").img-fluid  
+                        .list__txt    
+                            p.m-top #[strong Archivos secuenciales:] lleva un orden de los registros con respecto al valor de alguna clave de ordenación.
+                    .list
+                        .list__item
+                            .list__item__icon
+                                img.img-a(src="assets/images/pages/ilustraciones/v1.svg").img-fluid  
+                        .list__txt    
+                            p.m-top #[strong Archivo de direccionamiento calculado:] ocupa una función de direccionamiento que se aplica dentro de un campo determinado para la ubicación de los registros en disco.
+                    .list
+                        .list__item
+                            .list__item__icon
+                                img.img-a(src="assets/images/pages/ilustraciones/v1.svg").img-fluid  
+                        .list__txt    
+                            p.m-top #[strong Árboles B:] tienen estructura de árbol para ubicar los registros.
+
+        .sub-ecored.mt-5
+
+            h2#tema-83 8.3.	Análisis
+
+        .row.justify-content-center.align-items-center.mt-5
+            .col-auto
+
+                img.img-a(src="assets/images/pages/tema-8/tema-8-6.svg").img-fluid
+            .col 
+
+                p El análisis de datos se usa para determinar si el sistema existente protege los datos efectivamente, opera eficientemente y cumple con las metas de la organización.
+
+                p Las entidades financieras utilizan las bases de datos por ejemplo para analizar los retiros y los patrones de gasto para prevenir fraude o robo en la entidad.
+
+        .sub-ecored.mt-5
+
+            h2#tema-84 8.4.	Minería de datos y confidencialidad
+
+        p.mt-5 La minería de datos (data mining), es un proceso para detectar información de conjuntos grandes de datos, su objetivo es encontrar patrones, tendencias o reglas que expliquen el comportamiento de los datos en un contexto específico.
+
+        .header-arrow.mt-5
+            h3 Algunos de los beneficios que brinda la minería de datos son:
+        .jumbotron.bg-7
+
+            .row.justify-content-center.align-items-center.mt-5
+                .col-auto
+                    img.img-a(src="assets/images/pages/tema-8/img2.svg").img-fluid
+                .col
+                    .list
+                        .list__item
+                            .list__item__icon
+                                img.img-a(src="assets/images/pages/ilustraciones/v1.svg").img-fluid  
+                        .list__txt    
+                            p.m-top Se puede aplicar a un montón de escenarios empresariales diferentes. 
+
+                    .list
+                        .list__item
+                            .list__item__icon
+                                img.img-a(src="assets/images/pages/ilustraciones/v1.svg").img-fluid  
+                        .list__txt    
+                            p.m-top Contribuye a gestionar y organizar la información de tu empresa de forma más eficiente.
+                    .list
+                        .list__item
+                            .list__item__icon
+                                img.img-a(src="assets/images/pages/ilustraciones/v1.svg").img-fluid  
+                        .list__txt    
+                            p.m-top Colabora en el ahorro de costos y tiempo en los procesos de tu organización.
+                    .list
+                        .list__item
+                            .list__item__icon
+                                img.img-a(src="assets/images/pages/ilustraciones/v1.svg").img-fluid  
+                        .list__txt    
+                            p.m-top Al mostrar información clave, contribuye en la toma de decisiones estratégicas.
+                    .list
+                        .list__item
+                            .list__item__icon
+                                img.img-a(src="assets/images/pages/ilustraciones/v1.svg").img-fluid  
+                        .list__txt    
+                            p.m-top Brinda la posibilidad de desarrollar estrategias para encontrar y atraer nuevos clientes.
+                    .list
+                        .list__item
+                            .list__item__icon
+                                img.img-a(src="assets/images/pages/ilustraciones/v1.svg").img-fluid  
+                        .list__txt    
+                            p.m-top Posibilita mejorar la atención al cliente de la empresa a partir de la información obtenida.
+
+        .header-arrow.mt-5
+            h3 Un proceso común de Minería de Datos suele tener cuatro partes principales:
+        .row.justify-content-center.align-items-center.mt-5
+            .col
+                p La minería de datos al tener mucha información de las personas, son de gran valor, la información se la entregan por requisito para algún trámite o transacción, es por esto que la minería de datos tiene un código de ética para salvaguardar dicha información de manos inescrupulosas o con fines comerciales que beneficien a terceros.
+
+                p Es así como muchas empresas aprovechan la información de la minería de datos y asumen que el individuo la entrega así por ejemplo si una persona realiza transacciones con su tarjeta de crédito o con algún otro producto y esta información es muy útil para las empresas detectando hábitos de consumo y de pago, estos datos los pueden utilizar con fines comerciales.
+            .col-auto
+                img(src="assets/images/pages/tema-8/tema-8-7.svg").img-fluid
+
+        .jumbotron.bg-2.mt-5 
+            .row.justify-content-center.align-items-center
+                .col-auto
+                    img.img-a(src="assets/images/pages/ilustraciones/alert.png").img-fluid  
 
                 .col
+                    p Este apartado es interesante para un conocedor de los temas tecnológicos debido a que todos los profesionales y trabajadores en la actualidad se deben relacionar de manera cercana a las bases de datos, para esto es necesario que revise el siguiente material.
 
-                    p #[strong Archivos no ordenados:] esta forma ubicar los registros en el disco sin algún orden en particular, incluye nuevos registros al final del archivo.
+                    .row.justify-content-center.align-items-center
+                        .col-auto
+                            a(href="https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/51645" target="_blank").media-link    
 
-            .row.mt-2
+                                img(src="assets/images/pages/ilustraciones/icon_www.svg", alt="").media-link-icon
 
-                .col-auto
-
-                    img(src="assets/images/pages/tema-5/vineta.svg").img-fluid
-
-                .col
-
-                    p #[strong Archivos secuenciales:] lleva un orden de los registros con respecto al valor de alguna clave de ordenación.
-            
-            .row.mt-2
-
-                .col-auto
-
-                    img(src="assets/images/pages/tema-5/vineta.svg").img-fluid
-
-                .col
-
-                    p #[strong Archivo de direccionamiento calculado:] ocupa una función de direccionamiento que se aplica dentro de un campo determinado para la ubicación de los registros en disco.
-
-            .row.mt-2
-
-                .col-auto
-
-                    img(src="assets/images/pages/tema-5/vineta.svg").img-fluid
-
-                .col
-
-                    p #[strong Árboles B:] tienen estructura de árbol para ubicar los registros.
-
-    .card.py-5
-
-        .card-body
-
-            .sub-ecored
-
-                h2#tema-83 8.3.	Análisis
-
-            .row.mt-4.justify-content-center.mt-6
-
-                .col-md-3.col-lg-3.col-sm-3.col-xs-12
-
-                    img(src="assets/images/pages/tema-8/tema-8-6.svg").img-fluid
-
-                .col-7
-
-                    p.p-5  El análisis de datos se usa para determinar si el sistema existente protege los datos efectivamente, opera eficientemente y cumple con las metas de la organización.
-
-                    p.px-5.py-2 Las entidades financieras utilizan las bases de datos por ejemplo para analizar los retiros y los patrones de gasto para prevenir fraude o robo en la entidad.
-
-    .card.py-5
-
-        .card-body
-
-            .sub-ecored
-
-                h2#tema-84 8.4.	Minería de datos y confidencialidad
-
-            p.mt-5 La minería de datos (data mining), es un proceso para detectar información de conjuntos grandes de datos, su objetivo es encontrar patrones, tendencias o reglas que expliquen el comportamiento de los datos en un contexto específico.
-
-            .bg-naranja.p-4.mt-5.cont-flecha.text-center
-
-                p.font-weight-bold Algunos de los beneficios que brinda la minería de datos son:
-
-            .row.mt-6
-
-                .col-auto
-
-                    img(src="assets/images/pages/tema-5/vineta.svg").img-fluid
-
-                .col
-
-                    p Se puede aplicar a un montón de escenarios empresariales diferentes. 
-
-            .row.mt-2
-
-                .col-auto
-
-                    img(src="assets/images/pages/tema-5/vineta.svg").img-fluid
-
-                .col
-
-                    p Contribuye a gestionar y organizar la información de tu empresa de forma más eficiente.
-            .row.mt-2
-
-                .col-auto
-
-                    img(src="assets/images/pages/tema-5/vineta.svg").img-fluid
-
-                .col
-
-                    p Colabora en el ahorro de costos y tiempo en los procesos de tu organización.
-            .row.mt-2
-
-                .col-auto
-
-                    img(src="assets/images/pages/tema-5/vineta.svg").img-fluid
-
-                .col
-
-                    p Al mostrar información clave, contribuye en la toma de decisiones estratégicas.
-            .row.mt-2
-
-                .col-auto
-
-                    img(src="assets/images/pages/tema-5/vineta.svg").img-fluid
-
-                .col
-
-                    p Brinda la posibilidad de desarrollar estrategias para encontrar y atraer nuevos clientes.
-            .row.mt-2
-
-                .col-auto
-
-                    img(src="assets/images/pages/tema-5/vineta.svg").img-fluid
-
-                .col
-
-                    p Posibilita mejorar la atención al cliente de la empresa a partir de la información obtenida.
-
-            .bg-naranja.p-4.mt-5.cont-flecha.text-center
-
-                p.font-weight-bold Un proceso común de Minería de Datos suele tener cuatro partes principales:
-
-            .col-12.text-center
-
-                img(src="assets/images/pages/tema-8/tema-8-7.svg").img-fluid.mt-5.pl-5
-
-            p.mt-5 La minería de datos al tener mucha información de las personas, son de gran valor, la información se la entregan por requisito para algún trámite o transacción, es por esto que la minería de datos tiene un código de ética para salvaguardar dicha información de manos inescrupulosas o con fines comerciales que beneficien a terceros.
-
-            p.mt-3 Es así como muchas empresas aprovechan la información de la minería de datos y asumen que el individuo la entrega así por ejemplo si una persona realiza transacciones con su tarjeta de crédito o con algún otro producto y esta información es muy útil para las empresas detectando hábitos de consumo y de pago, estos datos los pueden utilizar con fines comerciales.
-
-            .bg-azul-claro2.row.p-4.rounded.borde-azul.my-5.mx-2
-
-                .col-auto
-
-                    img(src="assets/images/pages/tema-8/tema-8-8.svg").img-fluid
-
-                .col.mb-3
-
-                    p  Este apartado es interesante para un conocedor de los temas tecnológicos debido a que todos los profesionales y trabajadores en la actualidad se deben relacionar de manera cercana a las bases de datos, para esto es necesario que revise el siguiente material.
-                    
-                    p.font-weight-bold  Capítulo 1. Conceptos de bases de datos p.9 del libro Bases de datos de Marqués (2009) en 
-
-                    a.mt-3.text-color-default(href="https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/51645") https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/51645 
+                                .media-link-title
+                                    p #[strong Anexo.] Capítulo 1. Conceptos de bases de datos p.9 del libro Bases de datos de Marqués (2009)

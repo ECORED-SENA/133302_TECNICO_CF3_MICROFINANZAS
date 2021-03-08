@@ -8,8 +8,7 @@
     justify-content: start;
     align-items: center;
     padding: 1rem;
-    //background-color: rgb(176, 208, 224);  
-    background-image: radial-gradient(#EAE699,#92934E);
+    background: #41B1DC;  
     border-radius: 7px;  
     transition: background-color 0.25s ease-out;
 
@@ -22,14 +21,15 @@
 
     &-title {
         p {
-            color: $primary;
+            color: white;
             margin: 0 !important;
         }      
     }   
     
     &:hover {
-        //background-color: rgb(168, 211, 233); 
+        background-color: rgb(168, 211, 233); 
     }
 
 }  
+
 

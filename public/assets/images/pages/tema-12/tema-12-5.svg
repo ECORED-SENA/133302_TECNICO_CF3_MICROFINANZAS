@@ -1,40 +1,61 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="166.677" height="166.677" viewBox="0 0 166.677 166.677">
-  <g id="Group_23478" data-name="Group 23478" transform="translate(-1770.605 -198.622)">
-    <g id="Group_23472" data-name="Group 23472" transform="translate(1770.605 198.622)">
-      <g id="Group_23465" data-name="Group 23465" transform="translate(73.175)">
-        <rect id="Rectangle_5344" data-name="Rectangle 5344" width="20.326" height="121.959" fill="#ffb0aa"/>
-      </g>
-      <g id="Group_23466" data-name="Group 23466" transform="translate(97.567 33.877)">
-        <rect id="Rectangle_5345" data-name="Rectangle 5345" width="20.326" height="54.204" transform="translate(20.326 54.204) rotate(180)" fill="#ffe352"/>
-      </g>
-      <g id="Group_23467" data-name="Group 23467" transform="translate(121.959 10.163)">
-        <rect id="Rectangle_5346" data-name="Rectangle 5346" width="20.326" height="101.632" fill="#98ca69"/>
-      </g>
-      <g id="Group_23468" data-name="Group 23468" transform="translate(146.35 33.877)">
-        <rect id="Rectangle_5347" data-name="Rectangle 5347" width="20.326" height="54.204" fill="#ffb0aa"/>
-      </g>
-      <g id="Group_23469" data-name="Group 23469" transform="translate(48.784 33.877)">
-        <rect id="Rectangle_5348" data-name="Rectangle 5348" width="20.326" height="54.204" fill="#ffe352"/>
-      </g>
-      <g id="Group_23470" data-name="Group 23470" transform="translate(24.392 10.163)">
-        <rect id="Rectangle_5349" data-name="Rectangle 5349" width="20.326" height="101.632" transform="translate(20.326 101.632) rotate(180)" fill="#98ca69"/>
-      </g>
-      <g id="Group_23471" data-name="Group 23471" transform="translate(0 33.877)">
-        <rect id="Rectangle_5350" data-name="Rectangle 5350" width="20.326" height="54.204" transform="translate(20.326 54.204) rotate(180)" fill="#ffb0aa"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="236" height="236" viewBox="0 0 236 236">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#e7ecf0"/>
+    </radialGradient>
+    <filter id="Elipse_1444" x="0" y="0" width="236" height="236" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_26379" data-name="Grupo 26379" transform="translate(-568 -2596)">
+    <g transform="matrix(1, 0, 0, 1, 568, 2596)" filter="url(#Elipse_1444)">
+      <g id="Elipse_1444-2" data-name="Elipse 1444" transform="translate(9 6)" stroke="#fff" stroke-width="6" fill="url(#radial-gradient)">
+        <circle cx="109" cy="109" r="109" stroke="none"/>
+        <circle cx="109" cy="109" r="106" fill="none"/>
       </g>
     </g>
-    <g id="Group_23477" data-name="Group 23477" transform="translate(1815.052 243.069)">
-      <g id="Group_23473" data-name="Group 23473" transform="translate(78.604 78.604)">
-        <rect id="Rectangle_5351" data-name="Rectangle 5351" width="20.326" height="10.163" transform="translate(0 14.373) rotate(-45)" fill="#d3d3d3"/>
+    <g id="Grupo_23478" data-name="Grupo 23478" transform="translate(616.733 2652.305)">
+      <g id="Grupo_23472" data-name="Grupo 23472" transform="translate(0 0)">
+        <g id="Grupo_23465" data-name="Grupo 23465" transform="translate(53.866)">
+          <rect id="Rectángulo_5344" data-name="Rectángulo 5344" width="14.963" height="89.777" fill="#ffb0aa"/>
+        </g>
+        <g id="Grupo_23466" data-name="Grupo 23466" transform="translate(71.822 24.938)">
+          <rect id="Rectángulo_5345" data-name="Rectángulo 5345" width="14.963" height="39.901" transform="translate(14.963 39.901) rotate(180)" fill="#ffe352"/>
+        </g>
+        <g id="Grupo_23467" data-name="Grupo 23467" transform="translate(89.777 7.481)">
+          <rect id="Rectángulo_5346" data-name="Rectángulo 5346" width="14.963" height="74.814" fill="#98ca69"/>
+        </g>
+        <g id="Grupo_23468" data-name="Grupo 23468" transform="translate(107.733 24.938)">
+          <rect id="Rectángulo_5347" data-name="Rectángulo 5347" width="14.963" height="39.901" fill="#ffb0aa"/>
+        </g>
+        <g id="Grupo_23469" data-name="Grupo 23469" transform="translate(35.911 24.938)">
+          <rect id="Rectángulo_5348" data-name="Rectángulo 5348" width="14.963" height="39.901" fill="#ffe352"/>
+        </g>
+        <g id="Grupo_23470" data-name="Grupo 23470" transform="translate(17.955 7.481)">
+          <rect id="Rectángulo_5349" data-name="Rectángulo 5349" width="14.963" height="74.814" transform="translate(14.963 74.814) rotate(180)" fill="#98ca69"/>
+        </g>
+        <g id="Grupo_23471" data-name="Grupo 23471" transform="translate(0 24.938)">
+          <rect id="Rectángulo_5350" data-name="Rectángulo 5350" width="14.963" height="39.901" transform="translate(14.963 39.901) rotate(180)" fill="#ffb0aa"/>
+        </g>
       </g>
-      <g id="Group_23474" data-name="Group 23474" transform="translate(83.395 83.395)">
-        <path id="Path_51557" data-name="Path 51557" d="M2165.183,574.036V593.2h-19.164l-19.671-19.671,19.164-19.164Z" transform="translate(-2126.348 -554.365)" fill="#6e83b7"/>
-      </g>
-      <g id="Group_23475" data-name="Group 23475">
-        <circle id="Ellipse_1312" data-name="Ellipse 1312" cx="50.816" cy="50.816" r="50.816" fill="#6e83b7"/>
-      </g>
-      <g id="Group_23476" data-name="Group 23476" transform="translate(8.808 8.808)">
-        <circle id="Ellipse_1313" data-name="Ellipse 1313" cx="42.008" cy="42.008" r="42.008" fill="#80d6fb"/>
+      <g id="Grupo_23477" data-name="Grupo 23477" transform="translate(32.719 32.718)">
+        <g id="Grupo_23473" data-name="Grupo 23473" transform="translate(57.862 57.862)">
+          <rect id="Rectángulo_5351" data-name="Rectángulo 5351" width="14.963" height="7.481" transform="translate(0 10.58) rotate(-45)" fill="#d3d3d3"/>
+        </g>
+        <g id="Grupo_23474" data-name="Grupo 23474" transform="translate(61.389 61.389)">
+          <path id="Trazado_51557" data-name="Trazado 51557" d="M2154.936,568.845v14.107h-14.107l-14.48-14.481,14.107-14.107Z" transform="translate(-2126.348 -554.365)" fill="#6e83b7"/>
+        </g>
+        <g id="Grupo_23475" data-name="Grupo 23475">
+          <ellipse id="Elipse_1312" data-name="Elipse 1312" cx="37.407" cy="37.407" rx="37.407" ry="37.407" fill="#6e83b7"/>
+        </g>
+        <g id="Grupo_23476" data-name="Grupo 23476" transform="translate(6.484 6.484)">
+          <ellipse id="Elipse_1313" data-name="Elipse 1313" cx="30.923" cy="30.923" rx="30.923" ry="30.923" fill="#80d6fb"/>
+        </g>
       </g>
     </g>
   </g>

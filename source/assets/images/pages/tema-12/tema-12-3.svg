@@ -1,61 +1,82 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="178.924" height="180.769" viewBox="0 0 178.924 180.769">
-  <g id="Group_23464" data-name="Group 23464" transform="translate(-2404.101 -193.837)">
-    <g id="Group_23443" data-name="Group 23443" transform="translate(2416.417 208)">
-      <circle id="Ellipse_1305" data-name="Ellipse 1305" cx="54.55" cy="54.55" r="54.55" transform="translate(0 77.145) rotate(-45)" fill="#6e83b7"/>
-    </g>
-    <g id="Group_23444" data-name="Group 23444" transform="translate(2448.468 240.05)">
-      <circle id="Ellipse_1306" data-name="Ellipse 1306" cx="45.095" cy="45.095" r="45.095" transform="translate(0)" fill="#80d6fb"/>
-    </g>
-    <g id="Group_23445" data-name="Group 23445" transform="translate(2488.108 224.776)">
-      <rect id="Rectangle_5340" data-name="Rectangle 5340" width="10.91" height="21.82" transform="translate(0 0)" fill="#466089"/>
-    </g>
-    <g id="Group_23446" data-name="Group 23446" transform="translate(2433.194 279.69)">
-      <rect id="Rectangle_5341" data-name="Rectangle 5341" width="10.91" height="21.82" transform="translate(0 10.91) rotate(-90)" fill="#466089"/>
-    </g>
-    <g id="Group_23447" data-name="Group 23447" transform="translate(2488.108 323.693)">
-      <rect id="Rectangle_5342" data-name="Rectangle 5342" width="10.91" height="21.82" transform="translate(10.91 21.82) rotate(180)" fill="#466089"/>
-    </g>
-    <g id="Group_23448" data-name="Group 23448" transform="translate(2532.111 279.69)">
-      <rect id="Rectangle_5343" data-name="Rectangle 5343" width="10.91" height="21.82" transform="translate(21.82 0) rotate(90)" fill="#466089"/>
-    </g>
-    <g id="Group_23451" data-name="Group 23451" transform="translate(2468.106 257.104)">
-      <g id="Group_23449" data-name="Group 23449" transform="translate(10.144 0)">
-        <circle id="Ellipse_1307" data-name="Ellipse 1307" cx="12.728" cy="12.728" r="12.728" transform="matrix(0.23, -0.973, 0.973, 0.23, 0, 24.776)" fill="#ffb0aa"/>
-      </g>
-      <g id="Group_23450" data-name="Group 23450" transform="translate(0 28.04)">
-        <path id="Path_51552" data-name="Path 51552" d="M2570.016,455.983a25.457,25.457,0,0,1,50.913,0Z" transform="translate(-2570.016 -430.526)" fill="#ffb0aa"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="236" height="236" viewBox="0 0 236 236">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#e7ecf0"/>
+    </radialGradient>
+    <filter id="Elipse_1441" x="0" y="0" width="236" height="236" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_26376" data-name="Grupo 26376" transform="translate(-568 -2028)">
+    <g transform="matrix(1, 0, 0, 1, 568, 2028)" filter="url(#Elipse_1441)">
+      <g id="Elipse_1441-2" data-name="Elipse 1441" transform="translate(9 6)" stroke="#fff" stroke-width="6" fill="url(#radial-gradient)">
+        <circle cx="109" cy="109" r="109" stroke="none"/>
+        <circle cx="109" cy="109" r="106" fill="none"/>
       </g>
     </g>
-    <g id="Group_23454" data-name="Group 23454" transform="translate(2404.101 194.344)">
-      <g id="Group_23452" data-name="Group 23452" transform="translate(7.753 0)">
-        <circle id="Ellipse_1308" data-name="Ellipse 1308" cx="9.092" cy="9.092" r="9.092" transform="translate(0 2.913) rotate(-9.217)" fill="#6e83b7"/>
+    <g id="Grupo_23464" data-name="Grupo 23464" transform="translate(-1779.177 1886.99)">
+      <g id="Grupo_23443" data-name="Grupo 23443" transform="translate(2412.573 203.579)">
+        <circle id="Elipse_1305" data-name="Elipse 1305" cx="37.523" cy="37.523" r="37.523" transform="translate(0 53.066) rotate(-45)" fill="#6e83b7"/>
       </g>
-      <g id="Group_23453" data-name="Group 23453" transform="translate(0 19.522)">
-        <path id="Path_51553" data-name="Path 51553" d="M2440.468,263.94a18.183,18.183,0,0,0-36.367,0Z" transform="translate(-2404.101 -245.757)" fill="#6e83b7"/>
+      <g id="Grupo_23444" data-name="Grupo 23444" transform="translate(2434.62 225.626)">
+        <circle id="Elipse_1306" data-name="Elipse 1306" cx="31.019" cy="31.019" r="31.019" transform="translate(0)" fill="#80d6fb"/>
       </g>
-    </g>
-    <g id="Group_23457" data-name="Group 23457" transform="translate(2404.101 338.24)">
-      <g id="Group_23455" data-name="Group 23455" transform="translate(9.091 0)">
-        <circle id="Ellipse_1309" data-name="Ellipse 1309" cx="9.092" cy="9.092" r="9.092" fill="#6e83b7"/>
+      <g id="Grupo_23445" data-name="Grupo 23445" transform="translate(2461.887 215.119)">
+        <rect id="Rectángulo_5340" data-name="Rectángulo 5340" width="7.505" height="15.009" transform="translate(0 0)" fill="#466089"/>
       </g>
-      <g id="Group_23456" data-name="Group 23456" transform="translate(0 18.183)">
-        <path id="Path_51554" data-name="Path 51554" d="M2440.468,633.479a18.183,18.183,0,0,0-36.367,0Z" transform="translate(-2404.101 -615.296)" fill="#6e83b7"/>
+      <g id="Grupo_23446" data-name="Grupo 23446" transform="translate(2424.113 252.893)">
+        <rect id="Rectángulo_5341" data-name="Rectángulo 5341" width="7.505" height="15.009" transform="translate(0 7.505) rotate(-90)" fill="#466089"/>
       </g>
-    </g>
-    <g id="Group_23460" data-name="Group 23460" transform="translate(2546.658 193.837)">
-      <g id="Group_23458" data-name="Group 23458" transform="translate(7.246 0)">
-        <circle id="Ellipse_1310" data-name="Ellipse 1310" cx="9.092" cy="9.092" r="9.092" transform="translate(0 4.178) rotate(-13.283)" fill="#6e83b7"/>
+      <g id="Grupo_23447" data-name="Grupo 23447" transform="translate(2461.887 283.162)">
+        <rect id="Rectángulo_5342" data-name="Rectángulo 5342" width="7.505" height="15.009" transform="translate(7.505 15.009) rotate(180)" fill="#466089"/>
       </g>
-      <g id="Group_23459" data-name="Group 23459" transform="translate(0 20.029)">
-        <path id="Path_51555" data-name="Path 51555" d="M2810.007,263.94a18.183,18.183,0,0,0-36.367,0Z" transform="translate(-2773.64 -245.757)" fill="#6e83b7"/>
+      <g id="Grupo_23448" data-name="Grupo 23448" transform="translate(2492.156 252.893)">
+        <rect id="Rectángulo_5343" data-name="Rectángulo 5343" width="7.505" height="15.009" transform="translate(15.009 0) rotate(90)" fill="#466089"/>
       </g>
-    </g>
-    <g id="Group_23463" data-name="Group 23463" transform="translate(2546.658 338.24)">
-      <g id="Group_23461" data-name="Group 23461" transform="translate(9.092)">
-        <circle id="Ellipse_1311" data-name="Ellipse 1311" cx="9.092" cy="9.092" r="9.092" fill="#6e83b7"/>
+      <g id="Grupo_23451" data-name="Grupo 23451" transform="translate(2448.128 237.357)">
+        <g id="Grupo_23449" data-name="Grupo 23449" transform="translate(6.978 0)">
+          <circle id="Elipse_1307" data-name="Elipse 1307" cx="8.755" cy="8.755" r="8.755" transform="matrix(0.23, -0.973, 0.973, 0.23, 0, 17.042)" fill="#ffb0aa"/>
+        </g>
+        <g id="Grupo_23450" data-name="Grupo 23450" transform="translate(0 19.288)">
+          <path id="Trazado_51552" data-name="Trazado 51552" d="M2570.016,448.037a17.511,17.511,0,0,1,35.022,0Z" transform="translate(-2570.016 -430.526)" fill="#ffb0aa"/>
+        </g>
       </g>
-      <g id="Group_23462" data-name="Group 23462" transform="translate(0 18.183)">
-        <path id="Path_51556" data-name="Path 51556" d="M2810.007,633.479a18.183,18.183,0,0,0-36.367,0Z" transform="translate(-2773.64 -615.296)" fill="#6e83b7"/>
+      <g id="Grupo_23454" data-name="Grupo 23454" transform="translate(2404.101 194.186)">
+        <g id="Grupo_23452" data-name="Grupo 23452" transform="translate(5.333 0)">
+          <circle id="Elipse_1308" data-name="Elipse 1308" cx="6.254" cy="6.254" r="6.254" transform="translate(0 2.004) rotate(-9.217)" fill="#6e83b7"/>
+        </g>
+        <g id="Grupo_23453" data-name="Grupo 23453" transform="translate(0 13.429)">
+          <path id="Trazado_51553" data-name="Trazado 51553" d="M2429.117,258.265a12.508,12.508,0,0,0-25.016,0Z" transform="translate(-2404.101 -245.757)" fill="#6e83b7"/>
+        </g>
+      </g>
+      <g id="Grupo_23457" data-name="Grupo 23457" transform="translate(2404.101 293.168)">
+        <g id="Grupo_23455" data-name="Grupo 23455" transform="translate(6.254 0)">
+          <circle id="Elipse_1309" data-name="Elipse 1309" cx="6.254" cy="6.254" r="6.254" fill="#6e83b7"/>
+        </g>
+        <g id="Grupo_23456" data-name="Grupo 23456" transform="translate(0 12.508)">
+          <path id="Trazado_51554" data-name="Trazado 51554" d="M2429.117,627.8a12.508,12.508,0,0,0-25.016,0Z" transform="translate(-2404.101 -615.296)" fill="#6e83b7"/>
+        </g>
+      </g>
+      <g id="Grupo_23460" data-name="Grupo 23460" transform="translate(2502.162 193.837)">
+        <g id="Grupo_23458" data-name="Grupo 23458" transform="translate(4.984 0)">
+          <circle id="Elipse_1310" data-name="Elipse 1310" cx="6.254" cy="6.254" r="6.254" transform="translate(0 2.874) rotate(-13.283)" fill="#6e83b7"/>
+        </g>
+        <g id="Grupo_23459" data-name="Grupo 23459" transform="translate(0 13.777)">
+          <path id="Trazado_51555" data-name="Trazado 51555" d="M2798.656,258.265a12.508,12.508,0,0,0-25.016,0Z" transform="translate(-2773.64 -245.757)" fill="#6e83b7"/>
+        </g>
+      </g>
+      <g id="Grupo_23463" data-name="Grupo 23463" transform="translate(2502.162 293.168)">
+        <g id="Grupo_23461" data-name="Grupo 23461" transform="translate(6.254)">
+          <circle id="Elipse_1311" data-name="Elipse 1311" cx="6.254" cy="6.254" r="6.254" fill="#6e83b7"/>
+        </g>
+        <g id="Grupo_23462" data-name="Grupo 23462" transform="translate(0 12.508)">
+          <path id="Trazado_51556" data-name="Trazado 51556" d="M2798.656,627.8a12.508,12.508,0,0,0-25.016,0Z" transform="translate(-2773.64 -615.296)" fill="#6e83b7"/>
+        </g>
       </g>
     </g>
   </g>
